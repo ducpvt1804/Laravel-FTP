@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Hybrid\\Ftp\\FtpServiceProvider"
+                "Anchu\\Ftp\\FtpServiceProvider"
             ]
         }
     },
