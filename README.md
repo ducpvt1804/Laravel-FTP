@@ -17,7 +17,7 @@ Add the package to your `composer.json` and run `composer update`.
 
     {
         "require": {
-            "hybrid/ftp": "~2.0"
+            "hybrid/ftp": "~3.2"
         }
     }
 > If you're using Laravel 5.5+ skip the next step, as Laravel auto discover packages.
